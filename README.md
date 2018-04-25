@@ -6,7 +6,7 @@ docker image with [Google Puppeteer](https://github.com/GoogleChrome/puppeteer) 
 
 ## before usage
 
-1. You should pass `--no-sandbox, --disable-setuid-sandbox` args when launch browser
+Pass `--no-sandbox, --disable-setuid-sandbox` chrome args
 
 In your tests:
 
